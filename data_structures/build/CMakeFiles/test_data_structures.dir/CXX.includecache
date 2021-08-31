@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/singly_linked_list.h
+
+/home/bogdan/projects/cpp/data_structures/main.cpp
+iostream
+-
+singly_linked_list.h
+/home/bogdan/projects/cpp/data_structures/singly_linked_list.h
+
+/home/bogdan/projects/cpp/data_structures/src/singly_linked_list.cpp
+singly_linked_list.h
+/home/bogdan/projects/cpp/data_structures/src/singly_linked_list.h
+iostream
+-
+
