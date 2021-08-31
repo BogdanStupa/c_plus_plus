@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/test_data_structures.dir/main.cpp.o CMakeFiles/test_data_structures.dir/src/singly_linked_list.cpp.o  -o test_data_structures 
